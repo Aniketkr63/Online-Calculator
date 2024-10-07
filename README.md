@@ -1,1 +1,1 @@
-Calculator - By Code Aniket
+Online Calculator
